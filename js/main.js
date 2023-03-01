@@ -145,5 +145,5 @@
 		skillsWayPoint();
 	});
 
-
+	$("#year").text(new Date().getFullYear());
 }());
